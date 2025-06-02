@@ -1,2 +1,6 @@
 streamlit
+folium
+pylance
+pandas
 plotly
+
